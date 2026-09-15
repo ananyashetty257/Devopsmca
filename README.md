@@ -1,6 +1,6 @@
 # Explore India - DevOps Lab Project
 
-A simple web application showcasing tourist destinations in India, built as part of a DevOps laboratory exercise.
+A simple web application showcasing tourist destinations in India, built as part of a DevOps laboratory exercise on Git branching.
 
 ## Project Structure
 
